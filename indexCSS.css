@@ -1,0 +1,114 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 13, 2017, 8:54:39 PM
+    Author     : runze
+*/
+#scrollView {
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-right: 10%;
+    margin-left: 10%;
+    background-color: lightgray;
+    padding: 1%;
+    font-family:  "Calibri", Times, serif;
+}
+
+#locationHeader {
+    text-align: left;
+}
+
+button {
+    background-color: lightgray;
+    border: none;
+    color: gray;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#sortButtons {
+    float: right;
+}
+
+#apartmenTable {
+    background-color: white;
+}
+
+#aptInfo {
+    display: inline-block;
+    vertical-align: top;
+}
+
+#aptName {
+    border-bottom-color: lightgray;
+    text-align: left;
+    vertical-align: top;
+    color: black;
+    font-size: 40px;
+}
+
+#description {
+    margin-bottom: 50%;
+}
+
+#tableRow {
+    background-color: white;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding: 1%;
+}
+
+#aptPics {
+    display: inline-block;
+    margin-right: 10%;
+    margin-left: 0%;
+    margin-top: 0%;
+}
+
+#from {
+    color: gold;
+    text-align: right;
+}
+
+#price {
+    color: gold;
+    text-align: right;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+#priceUnit {
+    color: gold;
+    text-align: right;
+}
+
+ul.pagination {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    margin-left: 40%;
+}
+
+ul.pagination li {display: inline;}
+
+ul.pagination li {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+ul.pagination li.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+ul.pagination li:hover:not(.active) {background-color: #ddd;}

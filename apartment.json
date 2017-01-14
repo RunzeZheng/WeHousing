@@ -1,0 +1,94 @@
+{
+    "apartments": [
+        {
+        	"name": "The Pavilion on Berry",
+        	"image": "my favourite 1.jpg",
+        	"price": 512,
+        	"popularity": 4,
+        	"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+        },
+        {        	
+        	"name": "Radius @15th",
+        	"image": "my favourite 3.jpg",
+        	"price": 492,
+        	"popularity": 5,
+        	"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+        },
+        {
+
+        	"name": "416 Lofts",
+        	"image": "my favourite 2.jpg",
+        	"price": 460,
+        	"popularity": 3,
+        	"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+        },
+        {
+
+        	"name": "Edge on Oak",
+        	"image": "my favourite 5.jpg",
+        	"price": 532,
+        	"popularity": 7,
+        	"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+        },
+        {
+        	"name": "Apartment 5",
+        	"image": "my favourite 1.jpg",
+        	"price": 100,
+        	"popularity": 40,
+        	"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+        },
+        {        	
+        	"name": "Aparment 6",
+        	"image": "my favourite 3.jpg",
+        	"price": 292,
+        	"popularity": 50,
+        	"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+        },
+        {
+
+        	"name": "Apartment 7",
+        	"image": "my favourite 2.jpg",
+        	"price": 1460,
+        	"popularity": 30,
+        	"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+        },
+        {
+
+        	"name": "Apartment 8",
+        	"image": "my favourite 5.jpg",
+        	"price": 5,
+        	"popularity": 70,
+        	"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+        },
+        {
+        	"name": "apartment 9",
+        	"image": "my favourite 1.jpg",
+        	"price": 12,
+        	"popularity": 400,
+        	"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+        },
+        {        	
+        	"name": "apartment 10",
+        	"image": "my favourite 3.jpg",
+        	"price": 1492,
+        	"popularity": 15,
+        	"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+        },
+        {
+
+        	"name": "keeler",
+        	"image": "my favourite 2.jpg",
+        	"price": 0,
+        	"popularity": 100,
+        	"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+        },
+        {
+
+        	"name": "apartment 12",
+        	"image": "my favourite 5.jpg",
+        	"price": 800,
+        	"popularity": 27,
+        	"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+        }
+    ]
+}
